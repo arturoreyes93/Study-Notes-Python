@@ -1,14 +1,4 @@
 #StudyGuide Exam 3
-# a=['arturo','sergio','brissa']
-# b=['arturo','ale','coke']
-# a=set(a)
-# b=set(b)
-# a&b
-# {'arturo'}
-# a|b
-# {'brissa', 'ale', 'coke', 'arturo', 'sergio'}
-# a^b
-# {'ale', 'coke', 'sergio', 'brissa'}
 # random.uniform(a,b) >> floating
 # random.randint(a,b)
 # random.shuffle(list)
